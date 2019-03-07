@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[4],{FhP4:function(n,e,t){n.exports={normal:"normal___3tC1u"}},ROtW:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),o=t.n(a),r=t("FhP4"),c=t.n(r);e["default"]=function(){return o.a.createElement("div",{className:c.a.normal},o.a.createElement("h1",null,"\u9996\u9875"))}}}]);
