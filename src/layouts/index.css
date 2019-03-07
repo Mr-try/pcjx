@@ -5,6 +5,9 @@
   width: 950px;
   margin: 0 auto;
 }
+.carousel{
+  height: 330px
+}
 .breadcrumb{
   display: flex
 }
