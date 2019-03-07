@@ -8,7 +8,7 @@ export default {
       antd: true,
       dva: true,
       dynamicImport: { webpackChunkName: true },
-      title: 'xhyjx',
+      title: '新环宇驾校',
       dll: false,
       routes: {
         exclude: [
